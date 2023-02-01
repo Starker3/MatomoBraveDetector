@@ -1,7 +1,7 @@
 {
     "name": "BraveDetector",
     "description": "Simple plugin that adds the Brave User Agent to tracking requests when detected",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "theme": false,
     "require": {
         "matomo": ">=4.12.0-b1,<5.0.0-b1"
