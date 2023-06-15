@@ -7,3 +7,5 @@
 0.1.2 version bump
 
 0.2.0 Matomo 5 compatibility
+
+0.2.1 Bump version number
